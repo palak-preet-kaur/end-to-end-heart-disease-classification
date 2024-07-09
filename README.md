@@ -73,23 +73,4 @@ Future improvements and experiments:
 5. Hyperparameter Tuning: Proper tuning can drastically improve model performance, making it a critical step in the machine learning pipeline.
 6. Interpreting Model Results: Being able to explain and interpret the results of the model is as important as building the model itself.
 
-## Usage
-To use this project, clone the repository and run the Jupyter notebook. Ensure all dependencies are installed.
 
-## Installation
-1. Clone the repository:
-        git clone https://github.com/your-username/end-to-end-heart-disease-classification.git
-    cd end-to-end-heart-disease-classification
-    
-2. Install the required packages:
-        pip install -r requirements.txt
-    
-3. Run the Jupyter notebook:
-        jupyter notebook
-    
-
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
-
-## License
-This project is licensed under the MIT License.
